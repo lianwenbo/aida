@@ -1,5 +1,18 @@
 # 嗳嗒（aida）API 文档
 
+## 索引
+- [基本规范](https://github.com/bigyelow/aida/blob/master/doc/api.md#基本规范)
+- [API](https://github.com/bigyelow/aida/blob/master/doc/api.md#api)
+	- [1. 用户相关](https://github.com/bigyelow/aida/blob/master/doc/api.md#1-用户相关)
+		- [注册](https://github.com/bigyelow/aida/blob/master/doc/api.md#注册)
+		- [登录](https://github.com/bigyelow/aida/blob/master/doc/api.md#登录)
+	- [2. 答题模块](https://github.com/bigyelow/aida/blob/master/doc/api.md#2-答题模块)
+	- [3. 排行榜](https://github.com/bigyelow/aida/blob/master/doc/api.md#3-排行榜)
+- [Model](https://github.com/bigyelow/aida/blob/master/doc/api.md#model)
+	- [1. 用户相关](https://github.com/bigyelow/aida/blob/master/doc/api.md#1-用户相关-1)
+	- [2. 题目相关](https://github.com/bigyelow/aida/blob/master/doc/api.md#2-题目相关)
+
+
 ## 基本规范
 
 - base url: xxx.com/aida/
